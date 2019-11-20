@@ -1,0 +1,19 @@
+body {
+    font-family: 'Alata', sans-serif;
+    color: white;
+    background-image: url('falcon-9.jpg');
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+}
