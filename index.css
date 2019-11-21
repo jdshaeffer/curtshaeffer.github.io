@@ -1,7 +1,11 @@
 body {
     font-family: 'Alata', sans-serif;
-    color: white;
-    background-image: url('falcon-9.jpg');
+    /* background-image: url('falcon-9.jpg'); */
+    background-color: grey;
+}
+
+button {
+    width: 25%;
 }
 
 .row {
